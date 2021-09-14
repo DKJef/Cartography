@@ -1,6 +1,6 @@
 import departementsJson from "../assets/geoJson/departements.json";
 import regionsJson from "../assets/geoJson/regions.json";
-import arrondissementsJson from "../assets/geoJson/arrondissements.json";
+import arrondissementsJson from "../assets/geoJson/arrondissements.json";;
 import communesJson from "../assets/geoJson/communes.json";
 
 /**
